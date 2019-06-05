@@ -1,0 +1,49 @@
+h1{
+  font-size: 50px;
+  color:purple;
+  margin: 10px;
+}
+p{
+  font-size: 30px;
+}
+h2{
+  font-size: 50px;
+    color: black;
+  font-family: 'Indie Flower', cursive;
+
+}
+h3{
+  display: inline;
+  padding: 40px 0;
+  font-size: 20px;
+  text-align: center;
+}
+h4{
+  display: inline;
+  padding: 40px 0;
+  font-size: 40px;
+  text-align: center;
+}
+h5{
+  display: inline;
+  padding: 40px 0;
+  font-size: 20px;
+  text-align: center;
+}
+h6{
+  font-size: 30px;
+  margin: 5px;
+}
+body {
+  background-image: url("https://i.pinimg.com/originals/b8/6f/8c/b86f8c1afeaa3593536fadd9a693d6cd.jpg");
+}
+h7{
+  display: inline;
+  font-size: 40px;
+  color: black;
+  font-family: 'Ruge Boogie', cursive;
+}
+h8{
+  display: inline;
+  font-size: 30px;
+}
